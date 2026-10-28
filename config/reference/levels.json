@@ -1,0 +1,10 @@
+[
+  {"level_id": "L1", "level_name": "Associate",      "track": "IC",         "rank": 1, "level_multiplier": 1.00},
+  {"level_id": "L2", "level_name": "Professional",   "track": "IC",         "rank": 2, "level_multiplier": 1.18},
+  {"level_id": "L3", "level_name": "Senior",         "track": "IC",         "rank": 3, "level_multiplier": 1.40},
+  {"level_id": "L4", "level_name": "Staff",          "track": "IC",         "rank": 4, "level_multiplier": 1.65},
+  {"level_id": "L5", "level_name": "Principal",      "track": "IC",         "rank": 5, "level_multiplier": 1.95},
+  {"level_id": "L6", "level_name": "Manager",        "track": "MANAGEMENT", "rank": 6, "level_multiplier": 1.80},
+  {"level_id": "L7", "level_name": "Senior Manager", "track": "MANAGEMENT", "rank": 7, "level_multiplier": 2.10},
+  {"level_id": "L8", "level_name": "Director",       "track": "MANAGEMENT", "rank": 8, "level_multiplier": 2.50}
+]

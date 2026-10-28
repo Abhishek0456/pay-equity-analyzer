@@ -1,0 +1,12 @@
+[
+  {"location_code": "NYC", "city": "New York",      "country_code": "US", "currency_code": "USD", "geo_tier": 1, "geo_differential": 1.15},
+  {"location_code": "SFO", "city": "San Francisco", "country_code": "US", "currency_code": "USD", "geo_tier": 1, "geo_differential": 1.20},
+  {"location_code": "AUS", "city": "Austin",        "country_code": "US", "currency_code": "USD", "geo_tier": 2, "geo_differential": 0.95},
+  {"location_code": "LON", "city": "London",        "country_code": "GB", "currency_code": "GBP", "geo_tier": 1, "geo_differential": 0.95},
+  {"location_code": "BER", "city": "Berlin",        "country_code": "DE", "currency_code": "EUR", "geo_tier": 2, "geo_differential": 0.82},
+  {"location_code": "AMS", "city": "Amsterdam",     "country_code": "NL", "currency_code": "EUR", "geo_tier": 2, "geo_differential": 0.85},
+  {"location_code": "TOR", "city": "Toronto",       "country_code": "CA", "currency_code": "CAD", "geo_tier": 2, "geo_differential": 0.80},
+  {"location_code": "SGP", "city": "Singapore",     "country_code": "SG", "currency_code": "SGD", "geo_tier": 2, "geo_differential": 0.90},
+  {"location_code": "SYD", "city": "Sydney",        "country_code": "AU", "currency_code": "AUD", "geo_tier": 2, "geo_differential": 0.85},
+  {"location_code": "BLR", "city": "Bengaluru",     "country_code": "IN", "currency_code": "INR", "geo_tier": 3, "geo_differential": 0.35}
+]

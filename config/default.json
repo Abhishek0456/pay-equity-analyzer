@@ -1,0 +1,37 @@
+{
+  "seed": 20261022,
+  "review_year": 2026,
+  "history_start": "2024-01",
+  "history_end": "2026-12",
+  "as_of_date": "2026-12-31",
+  "base_currency": "USD",
+  "scales": {
+    "starter": {"employees": 500},
+    "full":    {"employees": 5000}
+  },
+  "workforce": {
+    "part_time_share": 0.08,
+    "annual_attrition": 0.10,
+    "annual_relocation_rate": 0.02,
+    "manager_span": [4, 10]
+  },
+  "comp": {
+    "band_spread": 0.50,
+    "yearly_market_index": {"2024": 1.00, "2025": 1.035, "2026": 1.07},
+    "merit_month": 3,
+    "promotion_raise": [0.08, 0.15]
+  },
+  "anomalies": {
+    "EXPIRED_BAND": 0.01,
+    "FTE_IGNORED": 0.01,
+    "FX_MISSING_SLICES": 2,
+    "UNAPPROVED_ADJUSTMENT": 0.15,
+    "INCOMPARABLE_GROUP": 3,
+    "UNEXPLAINED_OUTLIER": 0.02
+  },
+  "analysis": {
+    "min_group_size": 5,
+    "outlier_robust_z": 2.0,
+    "low_compa_ratio": 0.80
+  }
+}

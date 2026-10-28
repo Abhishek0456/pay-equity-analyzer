@@ -1,0 +1,10 @@
+{
+  "_note": "Illustrative synthetic USD-per-unit anchors for Jan 2024; monthly drift is generated from the seed.",
+  "USD": 1.0,
+  "GBP": 1.27,
+  "EUR": 1.09,
+  "CAD": 0.74,
+  "SGD": 0.75,
+  "AUD": 0.66,
+  "INR": 0.012
+}
