@@ -57,4 +57,4 @@ folder and is never read by the analytics code.
 Parts 0–9 are implemented locally. The full test suite passes (28 tests), starter
 generation is reproducible with seed `20261022`, and the CLI supports generation,
 analysis, validation, reproducibility, and end-to-end export. Public repository
-publication remains an external release step.
+publication is complete at https://github.com/Abhishek0456/pay-equity-analyzer.
